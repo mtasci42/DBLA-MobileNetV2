@@ -36,13 +36,16 @@ The proposed DBLA-MobileNetV2 architecture achieves **98.30% accuracy** on the R
 - `requirements.txt`: Required Python packages
 
 ## Hardware Prototype
-![Hardware Prototype](images/hardware_prototype.jpg) <!-- GÃ¶rsel ekleyince yolu gÃ¼ncelle -->
+![Hardware Prototype](images/dev_stick.PNG) <!-- GÃ¶rsel ekleyince yolu gÃ¼ncelle -->
 
 Custom arm-mounted stick-shaped device with:
 - NVIDIA Jetson Nano (4GB)
 - Logitech C310 HD Webcam
 - 7-inch display
 - 20,000 mAh power bank (~8â€“10 hours operation)
+
+## Graphical User Interface
+![GUI](images/guitum.png)
 
 ## Quick Start
 
