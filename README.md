@@ -87,15 +87,13 @@ Dataset links:
 If you use this code or model in your research, please cite:
 
 ```bibtex
-@article{tasci2025dbla,
+@article{tasci2026dbla,
   title={DBLA-MobileNetV2: Real-Time Rice Leaf Disease Detection on Edge Devices with Dual-Branch Lightweight Attention},
   author={Tasci, Mustafa},
-  journal={},
-  year={2025},
-  volume={},
-  number={},
-  pages={},
-  doi={} <!-- DOI yayÄ±nlandÄ±ktan sonra gÃ¼ncellenecektir -->
+  journal={IEEE Access},
+  year={2026},
+  doi={10.1109/ACCESS.2026.3662799},
+  publisher={IEEE}
 }
 ```
 
